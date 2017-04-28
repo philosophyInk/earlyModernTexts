@@ -1,0 +1,182 @@
+Early Modern Text Anomalies
+
+These are apparent mistakes found in the original PDFs during the conversion process to xhtml. No effort has been made to correct these apparent mistakes, although the largely automated conversion process may have serendipitously made some corrections on its own.
+
+
+descartes1637.pdf
+-page 1 at the beginning of Part I there appears to be an isolated dash or hyphen
+-page 1 right side bottom there is a semi-colon with a blank space to its left
+-page 16 left side has no space after a comma: 'existed. . . .,and'
+
+
+
+descartes1641.pdf
+-page 5 left column "to able to" rather than "to be able to"
+-page 17 first line following the Fourth Meditation title is indented; first lines following other titles are not
+
+
+
+leibniz1714b.pdf
+-the font in the brackets containing the first asterisk on p. 2 changes from small before the asterisk to the regular size after the asterisk; it should probably all be small as Bennett usually does inside brackets
+-first line of paragraph 18 is slightly indented
+
+
+locke1689b.pdf
+-section 5 in Contents has a colon at the end
+-section 10 in Contents has "10." instead of a colon like all the others
+-extra space immediately before the closing bracket of the opening paragraph of section two
+-page 3 right side has a bullet with space on the right (usually there's only space on the left side of a bullet)
+
+
+
+locke1690book2.pdf
+-page 51 (in chapter 13) has no section 27
+-page 80 the first line of section 35 is slightly indented
+-page 99 left side section 8 has a space before a period
+-page 129 (in chapter 29) has no section 11
+
+
+
+locke1690book3.pdf
+-page 145 right side has a space before a period
+-page 166 left side has a space after an opening bracket
+-page 171 right side has a space before a period
+-page 177 left side has a space before a semi-colon
+-page 188 section 23a has " seapraately willl "
+
+
+
+locke1690book4.pdf
+-page 201 left side has only the first two letters of 'try' italicized
+-page 206 right side has no space after a right bracket
+-page 240 left side indents first line of first section
+-page 275 left side has a line near the bottom starting with a period
+
+
+
+
+mill1859.pdf
+-page 6 left side has a space before a period
+-page 17 right side has a space before a comma
+-page 20 the footnote has a space before a comma
+-page 49 left side missing right parenthesis after number one
+
+
+
+
+mill1863.pdf
+-page 8 right side "is must also be" should probably be "it must also be"
+
+
+mill1869.pdf
+-page 26 left side has "that ’the moral training of mankind’ will" with the opening single quote the same as the closing
+-page 33 left side has "affairs. . . , But" shouldn't the comma be a period?
+-page 39 left side has "see. ]Mill" which should probably be an opening rather than closing bracket 
+-page 46 right side has "[ = ’thoroughly] out of line’" 
+
+
+
+berkeley1710.pdf
+-first line of first paragraph of intro is indented
+-left side p. 27 uses a closing single quote to begin 'eighth'
+
+
+
+berkeley1713.pdf
+-title page has the word "copyright" instead of the symbol
+
+
+
+kant1781part1.pdf
+-page 6 right side has two successive commas after 'floundering around'
+-page 12 bottom right side has 'because that has no a mass-noun use'
+-page 46 left side has 'page 12we'
+-page 51 right side has '102' twice in the margin
+-page 59 right side has 'being .brought'
+-page 64 right side indents the beginning of the paragraph following 2/3
+-page 68 right side margin has no 'A' edition preceding '115'
+-page 70 left side has no closing single quote around the word to which footnote 9 attaches
+-page 72 left side has an opening left parenthesis but no closing right parenthesis
+-pages 77 and 78 right side both have margin page number 136
+-page 91 left side has two question marks in place of a page number
+-page 125 right side has 'noindent' at the start of the ACTUALITY section
+-page 154 ends with 'transcendental dialect .]'
+
+
+kant1781part2.pdf
+-page 182 right side has a comma followed by a space followed by a period
+-page 202 left side margin has 243
+-page 214 left side margin has 456 before 455
+-page 218 left side margin has the sequence 468 470 467
+-page 238 left side margin has 525 twice
+-page 312 left side has a pair of parentheses around 'a', the first is bold the second is not
+
+
+
+
+
+
+kant1785.pdf
+-page 4 left side there are a period and space before the word "respectively"
+-page 41 left side there is a period starting a line
+-page 50 right side has a space before a period: "a priori ."
+
+
+
+hume1739book1.pdf
+-page 5 right side in the Important note, principle_c has no closing single quote
+-page 14 right side has no space before a bullet, like so: 'become•general'
+-page 18 right side has a space before a period, like so: 'false label· .The unity'
+-page 40 right side has this: 'ideas, . These'
+-page 126 right side has a period beginning a line
+
+
+
+hume1739book2.pdf
+-page 147 left side has a two closing single quotes around 'perception'
+-page 160 left side near the bottom has what appears to be a lone dot
+-page 212 left side has a line beginning with a comma
+
+
+
+
+hume1739book3.pdf
+-page 266 left side after the long footnote the beginning of the next paragraph is not indented as are the other numbered paragraphs
+-page 295 right side has two successive commas
+
+
+
+
+
+hume1748.pdf
+-the text (on p. 54) of footnote 9 occurs before the citation (on p. 55)
+-there is a space before a comma on p. 65 right side
+
+
+
+
+kant1783.pdf
+-the citation (p. 34) for footnote 3 occurs after the footnote body (p. 33)
+-page 50 right side at the end of section 46 there are two closing quotation marks around 'regulative'
+-page 59 left side has "The ‘incompatibility ’of"
+-page 74 right side a period starts a line
+
+
+
+
+hobbes1651part1.pdf
+-page 46 right side has a space after an opening single quote delimiting heresy
+-page 48 first line of Chapter 12 is not indented as in other chapters
+-page 66 there is an isolated period like so "JUSTICE. . When" on the left side
+
+
+hobbes1651part2.pdf
+-page 107 right side there is a stray apostrophe
+
+
+hobbes1651part4.pdf
+-page 194 left side has 'left- overs' with an (intended?) space
+
+
+
+
