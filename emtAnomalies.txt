@@ -14,6 +14,11 @@ descartes1641.pdf
 -page 5 left column "to able to" rather than "to be able to"
 -page 17 first line following the Fourth Meditation title is indented; first lines following other titles are not
 
+descartes1642.pdf
+-page 29 left side mixes single and double quotes around 'bright'
+
+
+
 
 
 leibniz1714b.pdf
@@ -176,6 +181,43 @@ hobbes1651part2.pdf
 
 hobbes1651part4.pdf
 -page 194 left side has 'left- overs' with an (intended?) space
+
+
+
+spinoza1665.pdf
+-page 12 left side has a dash instead of a closing single quote
+-page 23 left side has I ̇ instead of a superscript 'I'
+-page 23 right side has D6 in same paragraph as D5
+-page 46 left side has a comma followed immediately by a period
+-page 66 right side ends a paragraph with a comma followed by a space followed by a period
+-page 68 right side #46 has unusual formatting
+-page 70 right side last bulleted 'because' is not in line with the others
+-page 86 right side in D5 the dots seem messed up somehow
+-page 92 left side has a period on a line by itself just before 15
+-page 92 left side in 15 has a comma rather than period before a closing bracket
+-page 110 right side does not bold 'Alternate demonstration'; it is bold on page 107 left side
+-page 134 left side unusually indents 'Note on 34' 
+
+
+
+price1758.pdf
+-page 18 has footnote 7 which consists of only a single letter
+-page 28 left side has some funny formatting just after the citation for footnote 10
+-page 59 footnote 18 ends with a comma
+-page 116 left side does not put item iv on a separate line
+
+
+
+sidgwick1874.pdf
+-the table of contents has 'Book IV' rather than 'BOOK IV' as would be expected
+-page 26 right side has a downward pointing arrow
+-page 192 right side has probably indented bullet item justice too far
+-page 237 left side has 'seem' rather than 'seems': 'at this point Sidgwick seem to have blundered'
+
+
+
+
+
 
 
 
